@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student in Energy and Power at Zhejiang University. My research focuses on integrated energy systems, district energy systems, building energy management, energy-carbon coordinated operation, and data-driven modeling for energy system optimization.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My current work studies how mechanism-data fused modeling can support fine-grained energy consumption analysis, load forecasting, optimal dispatch, and low-carbon operation of integrated energy systems.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.07*: Personal academic homepage initialized on GitHub Pages.
+- *2026*: A paper on non-intrusive load monitoring for commercial buildings was published in *Energy and Buildings*.
+- *2025*: A paper on heating system secondary network operation optimization was published in *Journal of Zhejiang University (Engineering Science)*.
+- *2024*: A paper on renewable electricity based heating configuration was published in *Journal of Building Engineering*.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al. A non-intrusive load monitoring method for commercial buildings based on time-series periodicity adaptive fusion[J]. *Energy and Buildings*, 2026, 354:117031. SCI, IF=7.1.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Ziyu Yang**, Yi Zhou*, Junwei Zhang, et al. Bi-level optimal configuration of renewable electricity based heating in substations of district heating systems[J]. *Journal of Building Engineering*, 2024, 95(08):110285. SCI, IF=7.4.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Xu Zhou, **Ziyu Yang**, Junwei Zhang, Yanling Wu, Xiaojie Lin, Wei Zhong, Baoqin Liu. Optimization of secondary network operation of heating system based on user load quantification[J]. *Journal of Zhejiang University (Engineering Science)*, 2025, 59(8):1624-1633. EI.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Qi Ming Bo, Junjie Zhu, Liteng Wang, Xiaojie Lin*, Jiale Wang, **Ziyu Yang**, Wai Zhong, Yanling Wu. Research progress on long-distance heat transportation technology for low-carbon urban heating systems[J]. *Power Generation Technology*, 2025, 46(10):1-12.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 🔬 Research Projects
+
+- Core team member, National Key Research and Development Program of China, Sino-Finnish Cooperative Project. I worked on device-level energy consumption analysis in building energy management systems and built a period-aware non-intrusive load decomposition framework for extracting fine-grained load characteristics from aggregated building-level energy data.
+
+- Core team member, National Natural Science Foundation of China General Project. I study the collaborative mechanism of energy efficiency, carbon emissions, and flexibility in integrated energy systems with Carnot batteries, supporting coordinated operation strategies for low-carbon energy systems.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*: National Postgraduate Scholarship.
+- *2024*: Outstanding Graduate Student at Zhejiang University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep. 2023 - Present*, Ph.D. in Energy and Power, Zhejiang University.
+- *Sep. 2019 - Jun. 2023*, B.S. in Power Engineering and Engineering Thermal Physics, North China Electric Power University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Conferences
+- *2025*: Oral Presentation, National Annual Conference on Engineering Thermophilic.
+- *2023*: Poster Presentation, IEEE/IAS Industrial and Commercial Power System Asia.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🧰 Skills
+- Languages: English, Mandarin Chinese.
+- Programming and tools: Python, MATLAB.
+- Research skills: integrated energy system modeling and simulation, operation optimization, building energy data analysis.
+
+# 📫 Contact
+- Email: [ziyu.yang@zju.edu.cn](mailto:ziyu.yang@zju.edu.cn)
+- GitHub: [ziyusnow](https://github.com/ziyusnow)
