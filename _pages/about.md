@@ -27,11 +27,39 @@ My current work studies how mechanism-data fused modeling can support fine-grain
 - *2025*: A paper on heating system secondary network operation optimization was published in *Journal of Zhejiang University (Engineering Science)*.
 - *2024*: A paper on renewable electricity based heating configuration was published in *Journal of Building Engineering*.
 
-# 📝 Publications
+# 📝 Selected Publications
 
-- Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al. A non-intrusive load monitoring method for commercial buildings based on time-series periodicity adaptive fusion[J]. *Energy and Buildings*, 2026, 354:117031. SCI, IF=7.1.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy and Buildings 2026</div><img src='images/nilm-building.jpg' alt="Non-intrusive load monitoring framework for commercial buildings" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **Ziyu Yang**, Yi Zhou*, Junwei Zhang, et al. Bi-level optimal configuration of renewable electricity based heating in substations of district heating systems[J]. *Journal of Building Engineering*, 2024, 95(08):110285. SCI, IF=7.4.
+[A non-intrusive load monitoring method for commercial buildings based on time-series periodicity adaptive fusion](https://doi.org/10.1016/j.enbuild.2026.117031)
+
+Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
+
+*Energy and Buildings*, 2026, 354:117031. SCI, IF=7.1.
+
+- Proposes a time-series periodicity adaptive fusion method for non-intrusive load monitoring in commercial buildings.
+- Extracts fine-grained appliance-level energy consumption information from aggregated building-level data.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBE 2024</div><img src='images/renewable_heating.jpg' alt="Renewable electricity based heating system in district heating substations" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bi-level optimal configuration of renewable electricity based heating in substations of district heating systems](https://doi.org/10.1016/j.jobe.2024.110285)
+
+**Ziyu Yang**, Yi Zhou*, Junwei Zhang, et al.
+
+*Journal of Building Engineering*, 2024, 95(08):110285. SCI, IF=7.4.
+
+- Studies renewable electricity based heating configuration in district heating substations.
+- Builds a bi-level optimization framework for coordinated heat and electricity system planning.
+
+</div>
+</div>
+
+# Full Publications
 
 - Xu Zhou, **Ziyu Yang**, Junwei Zhang, Yanling Wu, Xiaojie Lin, Wei Zhong, Baoqin Liu. Optimization of secondary network operation of heating system based on user load quantification[J]. *Journal of Zhejiang University (Engineering Science)*, 2025, 59(8):1624-1633. EI.
 
