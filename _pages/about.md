@@ -29,14 +29,12 @@ My current work studies how mechanism-data fused modeling can support fine-grain
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy and Buildings 2026</div><img src='images/nilm-building.jpg' alt="Non-intrusive load monitoring framework for commercial buildings" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENB 2026</div><img src='images/nilm-building.jpg' alt="Non-intrusive load monitoring framework for commercial buildings" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A non-intrusive load monitoring method for commercial buildings based on time-series periodicity adaptive fusion](https://doi.org/10.1016/j.enbuild.2026.117031)
 
 Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
-
-*Energy and Buildings*, 2026, 354:117031. SCI, IF=7.1.
 
 - Proposes a time-series periodicity adaptive fusion method for non-intrusive load monitoring in commercial buildings.
 - Extracts fine-grained appliance-level energy consumption information from aggregated building-level data.
@@ -51,8 +49,6 @@ Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
 
 **Ziyu Yang**, Yi Zhou*, Junwei Zhang, et al.
 
-*Journal of Building Engineering*, 2024, 95(08):110285. SCI, IF=7.4.
-
 - Studies renewable electricity based heating configuration in district heating substations.
 - Builds a bi-level optimization framework for coordinated heat and electricity system planning.
 
@@ -61,9 +57,9 @@ Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
 
 # Full Publications
 
-- Xu Zhou, **Ziyu Yang**, Junwei Zhang, Yanling Wu, Xiaojie Lin, Wei Zhong, Baoqin Liu. Optimization of secondary network operation of heating system based on user load quantification[J]. *Journal of Zhejiang University (Engineering Science)*, 2025, 59(8):1624-1633. EI.
+- **JZUS 2025** Xu Zhou, **Ziyu Yang**, Junwei Zhang, Yanling Wu, Xiaojie Lin, Wei Zhong, Baoqin Liu. Optimization of secondary network operation of heating system based on user load quantification.
 
-- Qi Ming Bo, Junjie Zhu, Liteng Wang, Xiaojie Lin*, Jiale Wang, **Ziyu Yang**, Wai Zhong, Yanling Wu. Research progress on long-distance heat transportation technology for low-carbon urban heating systems[J]. *Power Generation Technology*, 2025, 46(10):1-12.
+- **PGT 2025** Qi Ming Bo, Junjie Zhu, Liteng Wang, Xiaojie Lin*, Jiale Wang, **Ziyu Yang**, Wai Zhong, Yanling Wu. Research progress on long-distance heat transportation technology for low-carbon urban heating systems.
 
 # 🔬 Research Projects
 
@@ -87,7 +83,3 @@ Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
 - Languages: English, Mandarin Chinese.
 - Programming and tools: Python, MATLAB.
 - Research skills: integrated energy system modeling and simulation, operation optimization, building energy data analysis.
-
-# 📫 Contact
-- Email: [ziyu.yang@zju.edu.cn](mailto:ziyu.yang@zju.edu.cn)
-- GitHub: [ziyusnow](https://github.com/ziyusnow)
