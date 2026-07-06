@@ -61,9 +61,9 @@ Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
 
 # 🔬 Research Projects
 
-- Core team member, National Key Research and Development Program of China, Sino-Finnish Cooperative Project. I worked on device-level energy consumption analysis in building energy management systems and built a period-aware non-intrusive load decomposition framework for extracting fine-grained load characteristics from aggregated building-level energy data.
+- Core team member, National Key Research and Development Program of China, Sino-Finnish Cooperative Project. 
 
-- Core team member, National Natural Science Foundation of China General Project. I study the collaborative mechanism of energy efficiency, carbon emissions, and flexibility in integrated energy systems with Carnot batteries, supporting coordinated operation strategies for low-carbon energy systems.
+- Core team member, National Natural Science Foundation of China General Project. 
 
 # 🎖 Honors and Awards
 - *2024*: National Postgraduate Scholarship.
@@ -76,8 +76,3 @@ Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
 # 💬 Academic Conferences
 - *2025*: Oral Presentation, National Annual Conference on Engineering Thermophilic.
 - *2023*: Poster Presentation, IEEE/IAS Industrial and Commercial Power System Asia.
-
-# 🧰 Skills
-- Languages: English, Mandarin Chinese.
-- Programming and tools: Python, MATLAB.
-- Research skills: integrated energy system modeling and simulation, operation optimization, building energy data analysis.
