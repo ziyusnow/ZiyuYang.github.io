@@ -107,3 +107,14 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.pub-badge {
+    display: inline-block;
+    padding-left: .65rem;
+    padding-right: .65rem;
+    margin-right: .4rem;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+    line-height: 1.6;
+}

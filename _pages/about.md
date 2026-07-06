@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Energy and Power at Zhejiang University. My research focuses on integrated energy systems, district energy systems, building energy management, energy-carbon coordinated operation, and data-driven modeling for energy system optimization.
-
-My current work studies how mechanism-data fused modeling can support fine-grained energy consumption analysis, load forecasting, optimal dispatch, and low-carbon operation of integrated energy systems.
+I am a Ph.D. student in Energy and Power Engineering at Zhejiang University. My research focuses on shipboard integrated energy systems and deep learning, with an emphasis on data-driven modeling, intelligent optimization, and low-carbon operation in maritime energy applications.
 
 # 🔥 News
 - *2026.07*: Personal academic homepage initialized on GitHub Pages.
@@ -57,9 +55,9 @@ Xiaojie Lin, **Ziyu Yang**, Xueru Lin*, et al.
 
 # Full Publications
 
-- **JZUS 2025** Xu Zhou, **Ziyu Yang**, Junwei Zhang, Yanling Wu, Xiaojie Lin, Wei Zhong, Baoqin Liu. Optimization of secondary network operation of heating system based on user load quantification.
+- <span class="pub-badge">Journal of Zhejiang University (Engineering Science) 2025</span> Xu Zhou, **Ziyu Yang**, Junwei Zhang, Yanling Wu, Xiaojie Lin, Wei Zhong, Baoqin Liu. Optimization of secondary network operation of heating system based on user load quantification.
 
-- **PGT 2025** Qi Ming Bo, Junjie Zhu, Liteng Wang, Xiaojie Lin*, Jiale Wang, **Ziyu Yang**, Wai Zhong, Yanling Wu. Research progress on long-distance heat transportation technology for low-carbon urban heating systems.
+- <span class="pub-badge">Power Generation Technology 2025</span> Qi Ming Bo, Junjie Zhu, Liteng Wang, Xiaojie Lin*, Jiale Wang, **Ziyu Yang**, Wai Zhong, Yanling Wu. Research progress on long-distance heat transportation technology for low-carbon urban heating systems.
 
 # 🔬 Research Projects
 
